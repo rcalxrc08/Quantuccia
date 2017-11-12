@@ -1,5 +1,5 @@
 //#include <ql/cashflows/averagebmacoupon.hpp>
-//#include <ql/cashflows/capflooredcoupon.hpp>
+//#include <ql/cashflows/capflooredcoupon.hpp>//Causes weird compiler error
 //#include <ql/cashflows/capflooredinflationcoupon.hpp>
 #include <ql/cashflows/cashflows.hpp>
 #include <ql/cashflows/cashflowvectors.hpp>
